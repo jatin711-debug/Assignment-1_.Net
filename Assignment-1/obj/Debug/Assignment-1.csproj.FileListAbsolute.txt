@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\Assignment-1\Assignment-1\bin\Debug\Assignment-1.exe.config
+C:\Users\hp\source\repos\Assignment-1\Assignment-1\bin\Debug\Assignment-1.exe
+C:\Users\hp\source\repos\Assignment-1\Assignment-1\bin\Debug\Assignment-1.pdb
+C:\Users\hp\source\repos\Assignment-1\Assignment-1\obj\Debug\Assignment-1.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Assignment-1\Assignment-1\obj\Debug\Assignment-1.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Assignment-1\Assignment-1\obj\Debug\Assignment-1.exe
+C:\Users\hp\source\repos\Assignment-1\Assignment-1\obj\Debug\Assignment-1.pdb
+C:\Users\hp\source\repos\Assignment-1\Assignment-1\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\hp\source\repos\Assignment-1\Assignment-1\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\hp\source\repos\Assignment-1\Assignment-1\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\hp\source\repos\Assignment-1\Assignment-1\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\hp\source\repos\Assignment-1\Assignment-1\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\hp\source\repos\Assignment-1\Assignment-1\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\hp\source\repos\Assignment-1\Assignment-1\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\hp\source\repos\Assignment-1\Assignment-1\obj\Debug\Assignment-1.csproj.CopyComplete
